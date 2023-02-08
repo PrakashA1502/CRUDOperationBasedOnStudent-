@@ -12,12 +12,14 @@ public void Student(int i)
   {
 	  Details dt1 = new Details();
       dt1.hashCode();
+      System.out.println(i);
   }
 
 public Details()
 {
 	System.out.println("hai");
-	System.out.println(super(i));
+	
+	                 
  }
 }
 
