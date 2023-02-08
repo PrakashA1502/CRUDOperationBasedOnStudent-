@@ -17,6 +17,7 @@ public void Student(int i)
 public Details()
 {
 	System.out.println("hai");
+	System.out.println(super(i));
  }
 }
 
