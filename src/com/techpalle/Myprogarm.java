@@ -13,10 +13,10 @@ public class Myprogarm
 		
 		
 		Details dt3 = new Details();
-		dt2.Student(100);
+		dt3.Student(100);
 		
 		Details dt4 = new Details();
-		dt2.Student(100);
+		dt4.Student(100);
 
 	}
 
