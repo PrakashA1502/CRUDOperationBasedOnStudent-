@@ -9,6 +9,14 @@ public class Myprogarm
 		//st.creating();
 		Details dt2 = new Details();
 		dt2.Student(100);
+		
+		
+		
+		Details dt3 = new Details();
+		dt2.Student(100);
+		
+		Details dt4 = new Details();
+		dt2.Student(100);
 
 	}
 
